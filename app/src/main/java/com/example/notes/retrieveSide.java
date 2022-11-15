@@ -21,6 +21,7 @@ public class retrieveSide extends AppCompatActivity {
     TextView notesR;
     Button enter;
     DatabaseReference databaseReference;
+    //checking git
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
